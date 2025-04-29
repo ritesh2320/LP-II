@@ -1,4 +1,5 @@
 (Windows) 
+
 Install gcloud cli and sign in after done.
 
 1. https://console.cloud.google.com/home/dashboard?hl=en&project=ferrous-arena-458211-h0&cloudshell=true
